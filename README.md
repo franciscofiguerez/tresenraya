@@ -1,1 +1,1 @@
-# tresenraya
+# tresenraya (aprendizaje por refuerzo)
